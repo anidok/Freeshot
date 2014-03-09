@@ -1,3 +1,8 @@
+/*
+Copyright (c) 2014 Vinayak Mehta <vmehta94@gmail.com>
+
+This file is licensed under the MIT License.
+*/
 #include<iostream>
 #include<conio.h>
 #include<graphics.h>
