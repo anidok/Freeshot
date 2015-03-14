@@ -1,5 +1,6 @@
 /*
-Copyright (c) 2014 Vinayak Mehta <vmehta94@gmail.com>
+Copyright (c) 2010 Vinayak Mehta <vmehta94@gmail.com>
+Copyright (c) 2010 Prabhdeep Singh Walia <prabhdeep3114@gmail.com>
 
 This file is licensed under the MIT License.
 */
